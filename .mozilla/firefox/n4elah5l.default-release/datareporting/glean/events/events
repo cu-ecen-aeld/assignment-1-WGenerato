@@ -1,0 +1,14 @@
+{"timestamp":16538869,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":16541379,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","experiment_type":"rollout","branch":"control"}}
+{"timestamp":16541529,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"enable-csv-import","experiment":"csv-import-release-rollout"}}
+{"timestamp":16541551,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"ech-roll-out","branch":"rollout","experiment_type":"rollout"}}
+{"timestamp":16541578,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"extensions-migration-in-import-wizard-116-rollout","branch":"control"}}
+{"timestamp":16541754,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"rollout","experiment":"phc-rollout"}}
+{"timestamp":16541912,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"highlighting-in-pdfs-rollout","branch":"treatment","experiment_type":"rollout"}}
+{"timestamp":16541965,"category":"nimbus_events","name":"enrollment","extra":{"branch":"delivery","experiment_type":"nimbus","experiment":"long-term-holdback-2024-h1-velocity-desktop"}}
+{"timestamp":16542085,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"fox-guide-reader-mode-early-day-user-holdback","experiment_type":"nimbus","branch":"control"}}
+{"timestamp":16542124,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":16564494,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":16565896,"category":"addons_manager","name":"manage","extra":{"method":"uninstall","source":"gmp-plugin","addon_id":"gmp-gmpopenh264","addon_type":"other"}}
+{"timestamp":24215768,"category":"urlbar","name":"engagement","extra":{"interaction":"typed","engagement_type":"click","results":"tip_onboard","selected_position":"1","sap":"urlbar_newtab","search_engine_default_id":"google-canonical","groups":"heuristic","selected_result":"tip_onboard","provider":"UrlbarProviderSearchTips","n_chars":"0","n_results":"1","n_words":"0","selected_result_subtype":"","search_mode":""}}
+{"timestamp":24218152,"category":"urlbar","name":"engagement","extra":{"selected_result":"autofill_origin","sap":"urlbar_newtab","search_mode":"","search_engine_default_id":"google-canonical","interaction":"typed","selected_result_subtype":"","n_chars":"3","groups":"heuristic,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,general,general,general","results":"autofill_origin,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,history,tab,history","engagement_type":"enter","provider":"Autofill","n_results":"10","n_words":"1","selected_position":"1"}}
